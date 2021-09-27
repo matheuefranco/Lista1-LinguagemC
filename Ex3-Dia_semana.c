@@ -3,7 +3,7 @@
 int main(){
 	int dia;
   while(1){
-	printf("Entre com o numero do dia:");
+	printf("Entre com o numero do dia--:");
 	scanf("%d",&dia);
 	switch(dia){
 		case 1: printf("Domingo\n");
