@@ -2,7 +2,7 @@
 
 ## Primeira lista de exercícios da disciplina de Algoritmos e Técnicas de Programação do curso de Bacharelado em Sistemas de Informação do IFSULDEMINAS - Campus Machado
 
-### Sobre os códigos
+### 👨‍💻 Sobre os códigos
 Exercícios de programação sequencial desenvolvidos em pseudocódigo com sintaxe parecida com a linguagem C.
 
 ### 🛠 Tecnologias
@@ -11,7 +11,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Pseudocódigo com Portugol Sttudio](http://lite.acad.univali.br/portugol/)
 
-### Exercícios da lista [Desenvolvidos estão em checked]
+### 💻 Exercícios da lista [Desenvolvidos estão em checked]
 
 - [x] 1.	Faça um algoritmo que leia 3 valores e apresente o resultado da soma destes valores. 
 - [x] 2.	Escreva um algoritmo que converta polegadas em centímetros ( uma polegada = 2.54 cm). Imprima o valor em polegada e o valor convertido para centímetros.
