@@ -1,4 +1,4 @@
-# Lista1-LinguagemC ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+# Lista 1 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## Primeira lista de exercícios da disciplina de Algoritmos e Técnicas de Programação do curso de Bacharelado em Sistemas de Informação do IFSULDEMINAS - Campus Machado
 
