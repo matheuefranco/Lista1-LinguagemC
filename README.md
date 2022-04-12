@@ -11,6 +11,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Pseudocódigo com Portugol Sttudio](http://lite.acad.univali.br/portugol/)
 
+![img](https://github.com/matheuefranco/Lista1-LinguagemC/blob/main/download.jpg?raw=true)
+
 ### 💻 Exercícios da lista [Desenvolvidos estão em checked]
 
 - [x] 1.	Faça um algoritmo que leia 3 valores e apresente o resultado da soma destes valores. 
